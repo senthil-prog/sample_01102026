@@ -10,3 +10,4 @@ print("Add", a + b)
 =======
 >>>>>>> master
 >>>>>>> feature-branch
+This is added before stash
