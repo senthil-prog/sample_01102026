@@ -1,4 +1,12 @@
 This is first Line
+<<<<<<< HEAD
+Fourth Line
+Fifth Line
+=======
 second Line
 Third Line
+<<<<<<< HEAD
 print("Add", a + b)
+=======
+>>>>>>> master
+>>>>>>> feature-branch
