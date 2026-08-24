@@ -11,3 +11,4 @@ print("Add", a + b)
 >>>>>>> master
 >>>>>>> feature-branch
 This is added before stash
+print("Modulation Process", a % b)
